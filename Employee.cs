@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 
 namespace Lab1
-{
-    
-    // I, Sahil Hirpara, 000123456 certify that this material is my original work.No other person's work has been used without due acknowledgement.
-   
+{   
     /// <summary>
     /// Employee modal class containg all method, constructor, attributes and many more
     /// In this class information regarding employyes is stored, alltered and displayed
