@@ -22,13 +22,13 @@ A C# console application reads employee records from a CSV file, calculates gros
 
 ## Project Structure
 
-Lab1/
-├── Employee.cs # Contains the Employee class and logic
-├── Program.cs # Main driver with menu and logic
-├── employees.txt # Input data file with employee records
-├── Lab1.csproj # Project file
-└── Properties/
-└── AssemblyInfo.cs # Assembly metadata
+Lab1:
+Employee.cs # Contains the Employee class and logic
+Program.cs # Main driver with menu and logic
+employees.txt # Input data file with employee records
+Lab1.csproj # Project file
+Properties/
+AssemblyInfo.cs # Assembly metadata
 
 
 ## How to Run
